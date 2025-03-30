@@ -26,7 +26,7 @@ Un proyecto básico de e-commerce que permite a los usuarios seleccionar product
 
 ## **Cómo Ejecutar el Proyecto**
 - **Visita la pagina de muestra** [Aqui](https://fabulous-dasik-5a2062.netlify.app/)
-- **Mira una imagen del proyecto** [Aqui](https://collection.cloudinary.com/dl3cepnhr/cbb20fd0dbca1f047597f136dc603599)
+- **Mira una imagen del proyecto** ![Aqui](https://collection.cloudinary.com/dl3cepnhr/cbb20fd0dbca1f047597f136dc603599)
 
 ## **Autor**
 - **Omar Contreras**: Desarrollador web, puedes contactarme a traves de [LinkedIn](https://www.linkedin.com/in/omar-contreras-3b42ba80?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BRAlOoEcDSJ%2BbrnhyqSUsXQ%3D%3D)
