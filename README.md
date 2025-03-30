@@ -1,33 +1,31 @@
-# E-commerce Basico con funcionalidad de Carrito de Compras 
+# E-commerce Básico con Funcionalidad de Carrito de Compras
 
 Un proyecto básico de e-commerce que permite a los usuarios seleccionar productos, administrarlos en un carrito de compras y calcular el precio total en tiempo real.
 
-## **Caracteristicas**
-    
-- **Carrito de Compras**
- - Agregar productos seleccionados al carrito
- - Aumenta o disminuye la cantidad de productos en el carrito 
- - Elimina productos especificos del carrito
- - Calcula automaticamente el precio total de los productos seleccionados
+## **Características**
+- 🛒 **Carrito de Compras:**
+  - Agregar productos seleccionados al carrito.
+  - Aumentar o disminuir la cantidad de productos en el carrito.
+  - Eliminar productos específicos del carrito.
+  - Calcular automáticamente el precio total de los productos seleccionados.
 
-- **Frontend:** 
- - Interface sencilla y funcional para visualizar productos y administrar el carrito
+- 💻 **Frontend:**
+  - Interfaz sencilla y funcional para visualizar productos y administrar el carrito.
 
-- **Autenticacion de Usuario (futura implementacion)**
- - Actualmente no cuenta con autenticacion pero es una funcion que puede agregarse
+- 🔒 **Autenticación de Usuario (Futura Implementación):**
+  Actualmente no cuenta con autenticación, pero es una funcionalidad que se puede agregar.
 
-- **Tecnologias Utilizadas**
- - frontend : [React/Vite.js]
- - TypeScript
- - Estilos : CSS
+## **Tecnologías Utilizadas**
+- **Frontend:** [React/Vite.js].
+- **Lenguaje:** TypeScript.
+- **Estilos:** CSS.
 
-- **Tecnologias que puedo sumar al proyecto**
- - Base de datos MongoDB o Postgres 
- - Implementar un servidor de sencillo con Express o Algo mas avanzado y escalable con NestJS
+## **Tecnologías Futuras**
+- **Base de Datos:** MongoDB o Postgres.
+- **Servidor Backend:** Express.js para algo más sencillo o NestJS para un backend avanzado y escalable.
 
-## **Puedes visitar el proyecto en el siguiente enlace**
-
-[Visita la E-commerce](https://fabulous-dasik-5a2062.netlify.app/)
-
-
-[Vista de la E-commerce](https://collection.cloudinary.com/dl3cepnhr/cbb20fd0dbca1f047597f136dc603599)
+## **Cómo Ejecutar el Proyecto**
+1. Clona el repositorio:
+   ```bash
+   git clone https://github.com/tu-usuario/ecommerce-basico.git
+   cd ecommerce-basico
