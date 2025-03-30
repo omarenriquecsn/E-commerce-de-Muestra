@@ -30,4 +30,4 @@
      https://fabulous-dasik-5a2062.netlify.app/
 
 
-    ![Descripción Alternativa] (.assets\Ecommerce Muestra.png)
+    ![Vista de la E-commerce](.assets\Ecommerce Muestra.png)
