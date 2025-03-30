@@ -27,7 +27,7 @@ Tecnologias que puedo sumar al proyecto
 
 # Puedes visitar el proyecto en el siguiente enlace
 
-![Visita la E-commerce](https://fabulous-dasik-5a2062.netlify.app/)
+[Visita la E-commerce](https://fabulous-dasik-5a2062.netlify.app/)
 
 
-![Vista de la E-commerce](https://collection.cloudinary.com/dl3cepnhr/cbb20fd0dbca1f047597f136dc603599)
+[Vista de la E-commerce](https://collection.cloudinary.com/dl3cepnhr/cbb20fd0dbca1f047597f136dc603599)
