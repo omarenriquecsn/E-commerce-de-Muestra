@@ -27,7 +27,7 @@
 
      # Puedes visitar el proyecto en el siguiente enlace
 
-     [Visital la pagina aqui](https://fabulous-dasik-5a2062.netlify.app/)
+    ![Visita la E-commerce](https://fabulous-dasik-5a2062.netlify.app/)
 
 
-    ![Vista de la E-commerce](./src/assets/Ecommerce%20Muestra.png)
+    [Vista de la E-commerce](https://collection.cloudinary.com/dl3cepnhr/cbb20fd0dbca1f047597f136dc603599)
