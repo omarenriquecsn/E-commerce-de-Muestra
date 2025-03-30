@@ -25,7 +25,5 @@ Un proyecto básico de e-commerce que permite a los usuarios seleccionar product
 - **Servidor Backend:** Express.js para algo más sencillo o NestJS para un backend avanzado y escalable.
 
 ## **Cómo Ejecutar el Proyecto**
-1. Clona el repositorio:
-   ```bash
-   git clone https://github.com/tu-usuario/ecommerce-basico.git
-   cd ecommerce-basico
+- **Visita la pagina de muestra** [Aqui](https://fabulous-dasik-5a2062.netlify.app/)
+- **Mira una imagen del proyecto** [Aqui](https://collection.cloudinary.com/dl3cepnhr/cbb20fd0dbca1f047597f136dc603599)
